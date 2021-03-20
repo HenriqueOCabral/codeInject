@@ -3,8 +3,8 @@
 Study based on Erick Wendel's live "PreJSExpertWeek" It's a way to handle reverse shell scripting on an application, protecting your sensitive data.
 For sure! That idea doesn't mean your application will be safe, but it turns the lights on how we need to focus on security even before We start the project.
 
-<a href="https://github.com/ErickWendel/safe-cmd-nodejs-with-docker-yt">Repo</a> 
-## PLEASE LEAVE A STAR TO HIS REPO.
+<a href="https://github.com/ErickWendel/safe-cmd-nodejs-with-docker-yt">## PLEASE LEAVE A STAR TO HIS REPO.</a> 
+
 
 ## Requirements
 
